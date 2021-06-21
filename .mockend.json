@@ -9,5 +9,9 @@
   "Comment": {
     "body": "string",
     "post": "Post"
+  },
+  "Record":{
+    "rows": "int",
+    "columns": "int"
   }
 }
