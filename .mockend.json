@@ -1,13 +1,6 @@
 {
-  "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date",
-    "comments": "Comment[]"
+  "records": {
+    "row": "int",
+    "column": "int",
   },
-  "Comment": {
-    "body": "string",
-    "post": "Post"
-  }
 }
